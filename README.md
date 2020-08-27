@@ -2,6 +2,12 @@
     <img width="100%" src="https://raw.githubusercontent.com/janogarcia/janogarcia/master/janogarcia-card.svg" alt="banner showing the logo for Jano Garcia and saying Jano Garcia, Product Designer — Developer">
 </a>
 
+### Form, function, and strategy
+
+I help forward-thinking remote companies to design and build products that perform—like your next big thing.
+
+<a href="https://janogarcia.com" title="Portfolio of Jano Garcia">janogarcia.com</a>
+
 <!--
 **janogarcia/janogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
