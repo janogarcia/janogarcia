@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://janogarcia.com" title="Portfolio of Jano Garcia">
+    <img width="100%" src="https://raw.githubusercontent.com/janogarcia/janogarcia/master/janogarcia-card.svg" alt="banner showing the logo for Jano Garcia and saying Jano Garcia, Product Designer — Developer">
+</a>
 
 <!--
 **janogarcia/janogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
