@@ -4,7 +4,7 @@
 
 ### Form, function, and strategy
 
-I help forward-thinking remote companies to design and build products that perform—like your next big thing.
+I help forward-thinking remote companies design and build products that perform and scale — like your next big thing.
 
 <a href="https://janogarcia.com" title="Portfolio of Jano Garcia">janogarcia.com</a>
 
