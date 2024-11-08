@@ -20,7 +20,7 @@
       <stop offset="0%" stop-color="#003DE6"/>
       <stop offset="100%" stop-color="#9673FF"/>
     </linearGradient>
-    <path id="e" d="M0 0h600v275L0 315z"/>
+    <path id="e" d="M0 0h600v275L0 314z"/>
     <path id="g" d="M480 304c0 30.284-24.038 54.953-54.075 55.968L424 360c-30.928 0-56-25.072-56-56v-56.975c0-9.062 8.206-15.911 17.123-14.29L440 242.703v24.392l-48-8.72V304c0 17.673 14.327 32 32 32 17.673 0 32-14.327 32-32v-88c0-30.284 24.038-54.953 54.075-55.968L512 160c30.928 0 56 25.072 56 56v56.975c0 9.062-8.206 15.911-17.123 14.29L496 277.289v-24.392l48 8.72V216c0-17.138-13.472-31.129-30.403-31.96L512 184c-17.673 0-32 14.327-32 32v88Z"/>
     <filter id="h" width="102%" height="102%" x="-1%" y="-1%" filterUnits="objectBoundingBox">
       <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadInner1"/>
@@ -32,8 +32,8 @@
   </defs>
   <g fill="none" fill-rule="evenodd">
     <path fill="#FFF" d="M0 0h600v315H0z"/>
-    <path fill="url(#a)" stroke="url(#b)" stroke-width=".5" d="M600.25-.25v315.517L-.25 275.234V-.25h600.5Z"/>
-    <path fill="url(#c)" stroke="url(#d)" stroke-width=".5" d="M600.25.587v314.68L66.894 279.71 600.25.587ZM-.25 274.733l68.95 4.597-68.95 36.083v-40.68Z"/>
+    <path fill="url(#a)" stroke="url(#b)" stroke-width=".5" d="M600.25-.25v315.017L-.25 275.234V-.25h600.5Z"/>
+    <path fill="url(#c)" stroke="url(#d)" stroke-width=".5" d="m-.25 274.733 69.047 4.546L-.25 315.413v-40.68ZM600.25.587v314.18L66.989 279.661 600.25.587Z"/>
     <mask id="f" fill="#fff">
       <use xlink:href="#e" transform="matrix(-1 0 0 1 600 0)"/>
     </mask>
